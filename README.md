@@ -1,7 +1,7 @@
 LeetCode: Introduction to Pandas
 ========
 
-This is my project for the Introduction to Pandas on LeetCode.
+This is my progress for the Introduction to Pandas on LeetCode.
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
